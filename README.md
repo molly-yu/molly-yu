@@ -1,2 +1,37 @@
-# molly-yu
+### Thanks for visiting, I'm Molly! 👋
+---
+
+#### I'm a Software Engineer based in Toronto/Waterloo, ON, Canada. I'm seeking internship opportunities for the upcoming Winter term!
+
+- 🏢 I'm currently working as a software developer at **i3 International**
+- 🎓 I'm studying towards a degree in Software Engineering (BSE) at the University of Waterloo 
+- ⚙️ Some programming languages I'm familiar with: `C++`, `Java`, `Python`, `Go`, `C`, `SQL`, `JavaScript`, `HTML/CSS`
+- 💻 Web development tools I have been using recently: `React`, `Angular`, `Node`, `MongoDB`, `Electron`, `Bootstrap`, `Semantic-UI`
+- 🤖 ML tools I've been working with: `Tensorflow`, `Keras`, `Caffe`, `OpenCV`, `ConvNets`
+- 👯 Active member of: **UWAFT, Coffee 'N Code, Women in Computer Science**
+- 🌱 Learning about these concepts: **Deep Learning/Computer Vision, Mobile Development, Responsive Web Applications**
+- 💬 Let's chat about: **web design**, **machine learning**, **bioinformatics**, **healthcare**, **sustainability**
+- ❤️ Interests: baking, travelling, K-Pop, succulents, cat rescue & adoption, health & fitness
+- ⚡ Fun fact: I represented Canada in the International Biology Olympiad in Szeged, Hungary, competing against 300 of the top students from over 72 countries! 🌿
+- 📫 Reach me at: m234yu@waterloo.ca
+
+#### Find me online 🌎:
+- 💼 Connect with me on <a href="https://www.linkedin.com/in/molly-yu-/">LinkedIn</a>
+- 🌐 View my works on <a href="https://mollyyu.me">mollyyu.me</a>
+
+<!--
+**molly-yu/molly-yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+-->
  
