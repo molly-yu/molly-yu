@@ -1,9 +1,7 @@
 ### Thanks for visiting, I'm Molly! 👋
 ---
 
-#### I'm a Software Engineer based in Toronto/Waterloo, ON, Canada. 
-#### I'm seeking internship opportunities for the upcoming Winter term starting January 2021!
-#### Always open to collaborating on projects with other students! 😊
+#### I'm a Software Engineer based in Toronto/Waterloo, ON, Canada. I'm seeking internship opportunities for the upcoming Winter term starting January 2021! Always open to collaborating on projects with other students! 😊
 
 - 🏢 I'm currently working as a Software Developer at **i3 International** 📷
 - 🎓 I'm studying towards a degree in Software Engineering (BSE) at the **University of Waterloo**
