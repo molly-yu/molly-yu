@@ -11,7 +11,7 @@
 - 👯 Active member of: **UWAFT, Coffee 'N Code, Women in Computer Science**
 - 🌱 Learning about these concepts: **Deep Learning/Computer Vision, Mobile Development, Responsive Web Applications**
 - 💬 Let's chat about: **web design**, **machine learning**, **bioinformatics**, **healthcare**, **sustainability**
-- 📫 Reach me at: m234yu@waterloo.ca
+- 📫 Reach me at: molly.yu@waterloo.ca
 - ⚡ Fun fact: I represented Canada in the International Biology Olympiad in Szeged, Hungary, competing against 300 of the top students from over 72 countries! 🌿
 - ❤️ Interests: baking 🍰, travelling 🌎, K-Pop 🎵, succulents & house plants 🌵, cat rescue & adoption 🐱, health & fitness 🏊
 
