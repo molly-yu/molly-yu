@@ -1,14 +1,14 @@
 ### Thanks for visiting, I'm Molly! 👋
 ---
 
-#### I'm a Software Engineer based in Toronto/Waterloo, ON, Canada. I'm seeking internship opportunities for the upcoming Winter term starting January 2021! Always open to collaborating on projects with other students! 😊
+#### I'm a Software Engineer based in Toronto/Waterloo, ON, Canada. I'm seeking internship opportunities for the upcoming Fall term starting September 2021! Always open to collaborating on projects with other students! 😊
 
-- 🏢 Currently working as a End Point and Mobility Engineer at **CIBC**, previously: Software Developer at **i3 International**
+- 🏢 Currently working as Applications Software Developer at **BlackBerry**, previously: **CIBC**,  **i3 International**
 - 🎓 Studying towards a degree in Software Engineering (BSE) at the **University of Waterloo**
 - ⚙️ Some programming languages I'm familiar with: `C++`, `Java`, `Python`, `Go`, `C`, `SQL`, `JavaScript`, `HTML/CSS`
 - 💻 Web development tools I have been using recently: `React`, `Angular`, `Node`, `Express`,`MongoDB`, `Electron`, `Bootstrap`
 - 🤖 ML tools I've been working with: `Tensorflow`, `Keras`, `Caffe`, `OpenCV`, `ConvNets`
-- 👯 Active member of: **UWAFT, Coffee 'N Code, Women in Computer Science**
+- 👯 Active member of: **UWAFT, Women in Computer Science**
 - 🌱 Learning about these concepts: **Deep Learning/Computer Vision, Mobile Development, Responsive Web Applications**
 - 💬 Let's chat about: **web design**, **machine learning**, **bioinformatics**, **healthcare**, **sustainability**
 - 📫 Reach me at: molly.yu@waterloo.ca
