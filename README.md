@@ -1,9 +1,9 @@
 ### Thanks for visiting, I'm Molly! 👋
 ---
 
-#### I'm a Software Engineer based in Toronto/Waterloo, ON, Canada. I'm seeking internship opportunities for the upcoming Fall term starting September 2021! Always open to collaborating on projects with other students! 😊
+#### I'm a Software Engineer based in Toronto/Waterloo, ON, Canada. I'm seeking internship opportunities for the upcoming Summer term starting May 2022! Always open to working on new project ideas, and scheduling coffee chats! 😊
 
-- 🏢 Most recently worked as Applications Software Developer at **BlackBerry**, previously: **CIBC**,  **i3 International**
+- 🏢 Currently working as Software Developer Intern at **Shopify**, previously: **BlackBerry**, **CIBC**,  **i3 International**
 - 🎓 Studying towards a degree in Software Engineering (BSE) at the **University of Waterloo**
 - ⚙️ Some programming languages I'm familiar with: `C++`, `Java`, `Python`, `Go`, `C`, `SQL`, `JavaScript`, `HTML/CSS`
 - 💻 Web development tools I have been using recently: `React`, `Node`, `Express`,`MongoDB`, `Electron`, `Bootstrap`
