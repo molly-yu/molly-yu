@@ -5,16 +5,16 @@
 
 - 🏢 Currently working as Software Developer Intern at **Shopify**, previously: **BlackBerry**, **CIBC**,  **i3 International**
 - 🎓 Studying towards a degree in Software Engineering (BSE) at the **University of Waterloo**
-- ⚙️ Some programming languages I'm familiar with: `C++`, `Java`, `Python`, `Go`, `C`, `SQL`, `JavaScript`, `HTML/CSS`
-- 💻 Web development tools I have been using recently: `React`, `Node`, `Express`,`MongoDB`, `Electron`, `Bootstrap`
+- ⚙️ Some programming languages I'm familiar with: `C++`, `Java`, `Python`, `Go`, `C`, `SQL`, `JavaScript`, `HTML/CSS`, `Ruby/Rails`, `GraphQL`
+- 💻 Web development tools I have been using recently: `React`, `Node`, `Express`,`MongoDB`, `
 - 🔭 Other tools I'm using: `AWS`, `Docker`, `Kubernetes`, `Spring Boot`, `Cassandra`, `Helm`, `Kafka`
 - 🤖 ML tools I've been working with: `Tensorflow`, `Keras`, `Caffe`, `OpenCV`, `ConvNets`
-- 👯 Active member of: **UWAFT, Women in Computer Science**
-- 🌱 Learning about these concepts: **Deep Learning/Computer Vision, Mobile Development, Responsive Web Applications**
-- 💬 Let's chat about: **web design**, **machine learning**, **bioinformatics**, **healthcare**, **sustainability**
+- 👯 Active member of: **UW Blueprint, Women in Computer Science**
+- 🌱 Learning about these concepts: **Deep Learning/Computer Vision, Mobile Development, Responsive Web Applications, UI/UX **
+- 💬 Let's chat about: **web design**, **ui/ux**, **bioinformatics**, **healthcare**, **sustainability**, **projects/work opportunities**
 - 📫 Reach me at: molly.yu@waterloo.ca
 - ⚡ Fun fact: I represented Canada in the International Biology Olympiad in Szeged, Hungary, competing against 300 of the top students from over 72 countries! 🌿
-- ❤️ Interests: baking 🍰, travelling 🌎, chill R&B 🎵, planting 🌵, cat rescue 🐱, health & fitness 🏊
+- ❤️ Interests: baking 🍰, travelling 🌎, chill R&B music 🎵, planting 🌵, cat rescue 🐱, health & fitness 🏊, art and drawing
 
 #### Find me online:
 - 💼 Connect with me on <a href="https://www.linkedin.com/in/molly-yu-/">LinkedIn</a>
