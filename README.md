@@ -1,17 +1,17 @@
 ### Thanks for visiting, I'm Molly! 👋
 ---
 
-#### I'm a Software Engineer based in Toronto/Waterloo, ON, Canada. I'm seeking internship opportunities for the upcoming Summer term starting May 2022! Always open to working on new project ideas, and scheduling coffee chats! 😊
+#### I'm a Software Engineer based in Toronto/Waterloo, ON, Canada. I'm seeking internship opportunities for Winter 2023! Always open to new project ideas and coffee chats!
 
-- 🏢 Currently working as Software Developer Intern at **Shopify**, previously: **BlackBerry**, **CIBC**,  **i3 International**
-- 🎓 Studying towards a degree in Software Engineering (BSE) at the **University of Waterloo**
-- ⚙️ Some programming languages I'm familiar with: `C++`, `Java`, `Python`, `Go`, `C`, `SQL`, `JavaScript`, `HTML/CSS`, `Ruby/Rails`, `GraphQL`
+- 🏢 Incoming SWE at **Redfin**, currently at **Shopify**, previously: **BlackBerry**, **CIBC**,  **i3 International**
+- 🎓 3rd year student in Software Engineering (BSE) at the **University of Waterloo**
+- ⚙️ Some programming languages I'm familiar with: `C++`, `Java`, `Python`, `Ruby/Rails` `Go`, `C`, `SQL`, `JavaScript`, `HTML/CSS`, `GraphQL`
 - 💻 Web development tools I have been using recently: `React`, `Node`, `Express`,`MongoDB`, `
 - 🔭 Other tools I'm using: `AWS`, `Docker`, `Kubernetes`, `Spring Boot`, `Cassandra`, `Helm`, `Kafka`
 - 🤖 ML tools I've been working with: `Tensorflow`, `Keras`, `Caffe`, `OpenCV`, `ConvNets`
-- 👯 Active member of: **UW Blueprint, Women in Computer Science**
+- 👯 Active member of: **UW Blueprint**, **Women in Computer Science**
 - 🌱 Learning about these concepts: **Deep Learning/Computer Vision, Mobile Development, Responsive Web Applications, UI/UX **
-- 💬 Let's chat about: **web design**, **ui/ux**, **bioinformatics**, **healthcare**, **sustainability**, **projects/work opportunities**
+- 💬 Let's chat about: **accessible web design**, **ui/ux**, **bioinformatics**, **healthcare**, **sustainability**, **projects/work opportunities**
 - 📫 Reach me at: molly.yu@waterloo.ca
 - ⚡ Fun fact: I represented Canada in the International Biology Olympiad in Szeged, Hungary, competing against 300 of the top students from over 72 countries! 🌿
 - ❤️ Interests: baking 🍰, travelling 🌎, chill R&B music 🎵, planting 🌵, cat rescue 🐱, health & fitness 🏊, art and drawing
