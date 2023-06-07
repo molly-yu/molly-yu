@@ -1,9 +1,9 @@
 ### Thanks for visiting, I'm Molly! 👋
 ---
 
-#### I'm a Software Engineer based in Toronto/Waterloo, ON, Canada. I'm seeking internship opportunities for Winter 2023! Always open to new project ideas and coffee chats!
+#### I'm a Software Engineer based in Toronto/Waterloo, ON, Canada.
 
-- 🏢 Incoming SWE at **Redfin**, currently at **Shopify**, previously: **BlackBerry**, **CIBC**,  **i3 International**
+- 🏢 SWE at Verkada,  previously: **Redfin**, **Shopify**, **BlackBerry**, **CIBC**,  **i3 International**
 - 🎓 3rd year student in Software Engineering (BSE) at the **University of Waterloo**
 - ⚙️ Some programming languages I'm familiar with: `C++`, `Java`, `Python`, `Ruby/Rails` `Go`, `C`, `SQL`, `JavaScript`, `HTML/CSS`, `GraphQL`
 - 💻 Web development tools I have been using recently: `React`, `Node`, `Express`,`MongoDB`, `
