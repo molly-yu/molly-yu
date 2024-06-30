@@ -4,7 +4,7 @@
 #### I'm a Software Engineer in Toronto -> NYC.
 
 - 🏢 New Grad SWE at **Datadog**,  previously interned @: **Verkada**, **Redfin**, **Shopify**
-- 🎓 Bachelor of Software Engineering (BSE) grad 2024 at **University of Waterloo**
+- 🎓 Bachelor of Software Engineering (BSE) at **University of Waterloo**, graduated 2024
 - ⚙️ Some programming languages I'm familiar with: `Rust`, `C++`, `Java`, `Scala`, `Python`, `Ruby/Rails` `Go`, `C`, `SQL`, `JavaScript`, `HTML/CSS`, `GraphQL`
 - 📫 Reach me at: molly.yu@waterloo.ca or ziba.molly@gmail.com :) 
 
